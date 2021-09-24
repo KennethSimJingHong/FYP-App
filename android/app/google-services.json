@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96881571850",
+    "firebase_url": "https://healthy-lifestyle-app-c64f4.firebaseio.com",
+    "project_id": "healthy-lifestyle-app-c64f4",
+    "storage_bucket": "healthy-lifestyle-app-c64f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96881571850:android:4fb0afe937ec446e0387f3",
+        "android_client_info": {
+          "package_name": "kenneth.com.healthy_lifestyle_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96881571850-jpn7e8gs482s4csbc879ikfal9309r25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC80jWBBgyiSSGl_U4E2wyPSY5NmOo9RhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96881571850-jpn7e8gs482s4csbc879ikfal9309r25.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96881571850-kchjagoa58fqgn0eprij7mdcrql41l29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kenneth.com.healthyLifestyleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
